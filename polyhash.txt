@@ -1,0 +1,18 @@
+1.Trier dans l ordre decroissant les cases avec un potentiel de couverture decroissant(QUENTiNAYAS) 
+1.2 Partir d'une liste triée et ajouté petit a petit un routeur dans la map
+2.Strategie:
+-> Pour positionnement des routeurs (ibrahim)
+	-> Calcul pour chaque case de la couverture maxiamle puis ajout dans la map avec couverture (Quentin)
+	-> Positionnement pas a pas des routeurs , partir d'un routeur puis voir vers ou positionner le routeur suivant en cherchant une couverture maximale (choisir le nombre de backbone et routeurs voulu des le debut (Ayas)
+	->Positionnement des routeurs à partir d'une fonction random avec pour contrainte de les positionner dans une zone non couverte par l ensemble des routeurs  posés precedemment
+-> Pour positionnement des backbones 
+	->Algo KILIAN
+	-> Algorithme de kruskal (Julien G)
+3. Calculer le maximum de points possibles pour la map utiliser
+4.A la sortie de chaque strategie avoir les coordonnées de chaque backbone et routeur.
+5.En partant de la liste des backbones et routeurs, integrer l affichage(AYAS).
+6.Video à faire:
+-> theme à presenté brievement
+->presentation de notre groupe
+->presentation de notre algorithme
+->remerciements eventuels à l egard de nos encadreurs :)

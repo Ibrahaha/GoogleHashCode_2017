@@ -1,0 +1,5 @@
+Ce dossier contient les résultats finaux des différentes cartes.
+
+Les noms des fichiers correspondent au nom de la carte + la version correspondante en fonction du solver.
+Si on a "best", cela correspond au meilleur résultat obtenu avec une certaine configuration du solver.
+Si on a "final", cela correspond au résultat obtenu avec le solver final qui permet un compromis entre les différentes cartes.

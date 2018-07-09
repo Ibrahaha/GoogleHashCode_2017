@@ -1,0 +1,30 @@
+﻿Dans ce fichier, vous inserez vos suggestions et propositions pour la vidéo à faire ainsi que les differentes etapes que vous pensez etre utile dans sa realisation:
+1.Ibrahim:
+->Breve presentation du concours Polyhash
+->Presentation des differents membres du groupe avec differentes postures et caracteres(genre sur l'habillement ou un truc particulier) en insistant sur les particularités de chacun d'entre nous;
+->Ensuite, presentation de notre algorithme, ses avantages et inconvenients dans ce challenge eventuellement sa complexité.
+-> remerciements
+
+2.Ayas:
+3.Quentin:
+4.Julien G:
+5.Julien C:
+En fait j'aurais repris le même plan qui avait été fixé par le prof dans son mail (du 22/11) c'est à dire :
+- Titre et introduction
+- Objectifs et règles du concours
+- Organisation de l'équipe (~)
+- Modèle de données et stratégie(s)
+- Performances (maps produites, scores, coûts, temps d'exécution, place mémoire)
+- Remerciements
+Sachant qu'il faut qu'elle dure 2m30 max.
+La vidéo doit être muette mais je mettrais bien une petite musique d'ambiance.
+Je verrais bien une vidéo de ce type : https://www.youtube.com/watch?v=EeaksBWd-eY
+(c'était une vidéo d'un groupe de l'année dernière). En gros faire un prezi et le lancer dans notre vidéo. A part si quelqu'un du groupe s'y connaît en montage vidéo ?
+
+6.Kilian: Comme l'a dit Julien, il faut simplement suivre le shema du prof. Pour le montage, étant donné que la video est "muette" et qu'elle ne demande que du texte un montage
+          simple suffirait amplement, donc widows movie maker serait le plus adapté selon moi. Ca fait un moment que j'ai pas touché à ce logiciel, mais c'est pas ultra compliqué,
+          je pourrais m'en occuper si vous voulez
+          http://filex.univ-nantes.fr/upload?ticket=ST-15296-gTo4c1VeNxTCpBmtTKAL-cas-ha.univ-nantes.fr
+
+
+-> Utiliser prezi
