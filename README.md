@@ -38,6 +38,7 @@ Proposition d'un modèle de base :
 Algorithme de pose des Backbones :
 - GUITTON Julien
 - CREQUER Kilian
+- SOULEYMANE Ibrahim
 
 Algorithme de pose des Routeurs :
 - MOITEAUX Quentin (calcul couverture de la map)
